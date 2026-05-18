@@ -1,10 +1,6 @@
-```
-                                            o
-                                           /|\
-                                           / \
-```
-
 # Buildman
+<img width="977" height="482" alt="Screenshot 2026-05-18 160024" src="https://github.com/user-attachments/assets/b98803e9-2b25-423e-96c9-2be357926a7c" />
+<img width="992" height="530" alt="Screenshot 2026-05-18 160215" src="https://github.com/user-attachments/assets/d882a219-34ae-4a0b-b1a3-7592d40db1d2" />
 
 Buildman is a word-guessing game (Hangman-style). You try to discover an unknown word before the character is fully built. You can guess individual letters first, then attempt to guess the full word.
 
